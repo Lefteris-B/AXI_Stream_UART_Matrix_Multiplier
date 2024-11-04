@@ -3,6 +3,10 @@
 ## Overview
 This project implements a pipelined matrix-vector multiplication (MVM) system with UART communication interface. The design is optimized for FPGA implementation and features a fully pipelined datapath with AXI-Stream interfaces.
 
+##
+Simulation and testbench: [EDA Playground - Digital Logic Design](https://edaplayground.com/x/kaBL)
+
+
 ## Features
 - Configurable matrix dimensions (default 8x8)
 - Parameterized data widths
