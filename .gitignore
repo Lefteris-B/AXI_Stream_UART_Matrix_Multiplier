@@ -1,0 +1,9 @@
+# Ignore specific files containing secrets
+#
+# Example:
+#
+# *   Ignore the entire 'secrets' directory and all its contents.
+# secrets/*
+.vscode/*
+settings.json
+chat.rapidgpt
